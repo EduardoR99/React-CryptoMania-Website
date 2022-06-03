@@ -20,5 +20,5 @@ this project was made entirely with React JS framework, axios and react-icons, w
 ### To Install
 - `npm install`
 
-### Para rodar 
+### to run
 - `npm run start`
